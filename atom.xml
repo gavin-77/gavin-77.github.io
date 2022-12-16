@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gavin-77.github.io</id>
+    <title>渡</title>
+    <updated>2022-12-16T02:48:16.451Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gavin-77.github.io"/>
+    <link rel="self" href="https://gavin-77.github.io/atom.xml"/>
+    <subtitle>@私人码头</subtitle>
+    <logo>https://gavin-77.github.io/images/avatar.png</logo>
+    <icon>https://gavin-77.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 渡</rights>
+    <entry>
+        <title type="html"><![CDATA[魔幻2022]]></title>
+        <id>https://gavin-77.github.io/post/2022/</id>
+        <link href="https://gavin-77.github.io/post/2022/">
+        </link>
+        <updated>2022-12-02T08:40:29.000Z</updated>
+        <content type="html"><![CDATA[<p>2022年充满了变数，疫情断断续续若有还无的又一年，终于在年底各种“呼声”之下显出归于理性的势头，政策终于放松。但解封之后，街头巷尾依然过者寥寥，因为对病毒的惧怕，大多数人闭门锁户，开始进入到疯狂囤药模式，社会似乎进入到了自封的状态里。对于解封的反应和国外正好相反，实在让人有点诧异，一个小小的口罩，所反应出的民众态度究竟是文化意识的差异，还是身体素质的差异导致如此？感觉这个完全可以小题大作一下，完全可以深入到国民的文化意识，生活方式甚至政治制度上来。当然因为众所周知的原因，是不会有人冒着未知的风险去作这个社会研究的，但相信，未来某日一定有人会说起这个话题。</p>
+]]></content>
+    </entry>
+</feed>
